@@ -1,0 +1,1 @@
+foo = magic(4)
